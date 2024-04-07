@@ -22,6 +22,7 @@ body{
     font-style: normal;
     font-weight: 400;
     color: #fff;
+    margin: 5rem 0;
 }
 
 img{
@@ -125,7 +126,7 @@ span::after{
 
 }
 
-@media screen and (min-width: 90rem)
+@media screen and (min-width: 72rem)
 {
 
     body{
